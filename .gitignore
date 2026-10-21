@@ -1,0 +1,6 @@
+search_index
+*.o
+*.zip
+*Zone.Identifier
+indexare.in
+indexare.out
